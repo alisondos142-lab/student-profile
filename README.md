@@ -1,33 +1,26 @@
 # Student Profile
 
-## About Me
+## Project Description
 
-I am a third-year Artificial Intelligence student interested in Artificial Intelligence and technology.
+This is a simple Python project that displays a student's basic information, including their name, major, university, and career goal.
 
-I am currently learning the fundamentals of programming and Artificial Intelligence, and I am working on developing my technical skills through university coursework and practice.
+## How to Run the Program
 
-## Skills
+1. Make sure Python is installed on your computer.
+2. Open a terminal inside the project folder.
+3. Run the following command:
 
-* Basic Python
-* Basic Programming Concepts
-* Fundamentals of Artificial Intelligence
+```bash
+python main.py
+```
 
-## Currently Learning
+The student's information will be displayed in the terminal.
 
-* Python
-* Git and GitHub
-* Data Analysis
-* Pandas
-* Matplotlib
-* Machine Learning Fundamentals
+## Author
 
-## Goals
+Sondos Ali
 
-* Improve my programming skills
-* Learn more about Artificial Intelligence
-* Build practical projects
-* Develop a professional portfolio
-* Gain practical experience through internships
+
 
 
 
